@@ -15,6 +15,10 @@ I’m a passionate **Full-Stack Web Developer** and an **Ethical Hacking Enthusi
 
 ## 🚀 Highlight Projects
 
+### 🛡️ [CyberGuard](https://github.com/PaluskarAditya/module-main)  
+An interactive cybersecurity education platform featuring real-world attack simulations, quizzes, and role-based learning paths.  
+_Stack:_ React, Tailwind CSS, JavaScript, Create React App (CRA)
+
 ### 🔐 [CodeVault](https://codevaultapp.vercel.app)  
 A secure code snippet locker with optional passcode protection and snippet expiry.  
 _Stack:_ React, Express, MongoDB, Tailwind, Monaco Editor
@@ -46,7 +50,6 @@ _Stack:_ React, Vite, Tailwind, Socket.IO
 
 - 🗳️ **PollCraft** – A real-time polling app with live vote updates
 - 🔥 **FirePanel** – A centralized firewall controller UI (early stage)
-- 🧠 **Cyber Awareness Game** – A gamified phishing detection simulator
 
 ---
 
