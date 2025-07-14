@@ -6,7 +6,7 @@ I’m a passionate **Full-Stack Web Developer** and an **Ethical Hacking Enthusi
 
 ## 💼 What I Do
 
-- 🔹 Build secure, full-stack applications using **React**, **Node.js**, and **MongoDB**
+- 🔹 Build secure, full-stack applications using **NextJS**, **React**, **Node.js**, **Express** and **MongoDB**
 - 🔹 Implement real-time features using **Socket.IO** and **WebSockets**
 - 🔹 Explore network security, firewalls, endpoint protection, and threat simulations
 - 🔹 Design tools with a focus on **privacy**, **usability**, and **performance**
